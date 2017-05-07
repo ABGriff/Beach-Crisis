@@ -9,6 +9,10 @@ public class Crosshair : MonoBehaviour {
 =======
     public int crosshairWidth = 3;
     public int crosshairHeight = 3;
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> 0d60e099eaaf923084403c783f48bfab63dafc7d
 >>>>>>> origin/master
 
     void Start()
@@ -17,6 +21,10 @@ public class Crosshair : MonoBehaviour {
 <<<<<<< HEAD
         Cursor.lockState = CursorLockMode.Confined;
 =======
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> 0d60e099eaaf923084403c783f48bfab63dafc7d
 >>>>>>> origin/master
     }
 
@@ -26,6 +34,10 @@ public class Crosshair : MonoBehaviour {
 =======
         ///crosshairTexture.width = crosshairWidth;
         ///crosshairTexture.height = crosshairHeight;
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> 0d60e099eaaf923084403c783f48bfab63dafc7d
 >>>>>>> origin/master
         Debug.Log(crosshairTexture.width);
         Debug.Log(crosshairTexture.height);
