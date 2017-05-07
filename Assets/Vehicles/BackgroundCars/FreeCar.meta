@@ -1,8 +1,19 @@
 fileFormatVersion: 2
-guid: 1ec81c2592a47c44f84da80a191dc9e6
+guid: 8c672fa071406c34d9d3a2ec8bfaba86
+labels:
+- car
+- pack
+- carpack
+- race
+- traffic
+- town
+- city
+- kajaman
+- lowpoly
+- background
 folderAsset: yes
-timeCreated: 1494051559
-licenseType: Free
+timeCreated: 1491149790
+licenseType: Store
 DefaultImporter:
   userData: 
   assetBundleName: 
